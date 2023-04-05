@@ -1,0 +1,41 @@
+/* span.help {
+  background-color: red;
+} */
+
+/* span .help {
+  background-color: red;
+} */
+
+/* fieldset.help
+{
+  background-color: red;
+} */
+
+/* fieldset .help
+{
+  background-color: red;
+} */
+
+/* span::after {
+  content: " (" attr(class) ")";
+} */
+
+/* fieldset:nth-of-type(n+3) p {
+  display: none;
+} */
+
+/* li:nth-child(n + 6) {
+  background-color: red;
+} */
+
+/* form >p {
+  background-color: blue;
+} */
+
+/* label ~ input {
+  background-color: red;
+} */
+
+input:required:invalid {
+  background-color: blue;
+}
